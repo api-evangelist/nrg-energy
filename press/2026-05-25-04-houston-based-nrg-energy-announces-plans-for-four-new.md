@@ -1,7 +1,9 @@
 ---
 title: Houston-based NRG Energy announces plans for four new ...
 url: https://www.houstonpublicmedia.org/articles/news/energy-environment/2025/03/05/515340/nrg-energy-announces-plans-for-4-new-natural-gas-plants-to-power-a-i/
-date: '2026-05-25'
+published: '2025-03-05'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"NRG Energy" press release artificial intelligence'
 position: 4
 source: serpapi-google

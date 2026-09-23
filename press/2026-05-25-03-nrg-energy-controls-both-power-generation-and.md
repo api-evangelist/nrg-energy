@@ -1,7 +1,9 @@
 ---
 title: NRG Energy Controls Both Power Generation and ...
 url: https://finance.yahoo.com/news/nrg-energy-controls-both-power-113300907.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NRG Energy" press release artificial intelligence'
 position: 3
 source: serpapi-google

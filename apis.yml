@@ -37,10 +37,12 @@ x-api-posture: no-product-api
 x-api-posture-basis: observed
 x-api-posture-note: "No public APIs have been documented at this time."
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.nrg.com/en/about/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/nrg-energy-domain-security.yml
   - type: LinkedIn

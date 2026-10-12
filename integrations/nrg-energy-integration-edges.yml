@@ -1,0 +1,36 @@
+edges:
+- partner_name: Arcadia
+  partner: arcadia-power
+  channel: partner-built
+  direction: partner-built
+  operations:
+  - statements
+  - statement-history
+  - web-navigation
+  - intervals
+  - interval-history
+  contract_reference:
+    list: Arcadia Plug provider coverage (public list)
+    spec_file: null
+    listed_name: NRG Energy
+    listed_id: prv_1300afbf-0f4c-11e3-8d99-22000aa40d1f
+    matched_domain: nrg.com
+    service_types:
+    - Water
+    - Lighting
+    - Steam
+    - Electric
+    - Chilled Water
+    - Fuel Oil
+    - Natural Gas
+    detected_by: sweep-energy.py
+    detected: '2026-10-13'
+  type: coverage
+  relationship: system-coverage
+  evidence: https://api.arcadia.com/plug/providers/public
+  detected_by: sweep-energy.py
+  first_seen: '2026-10-13'
+generated: '2026-10-13'
+method: searched
+checked:
+- https://api.arcadia.com/plug/providers/public
